@@ -17,8 +17,6 @@
   background-position: center;
   min-height: 250px;
 
-
-
   align-items: center;
   justify-content: center;
   text-align: center;
@@ -34,6 +32,11 @@
   text-align: center;
   max-width: 600px;
   margin: 0 auto;
+}
+
+.cus-button {
+  background-color: #19e5e6;
+  color: #fff;
 }
 
 
