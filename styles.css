@@ -40,6 +40,15 @@
 }
 
 
+.social-links a:hover {
+  color: var(--brand);
+  transition: color 0.2s ease-in-out;
+}
+
+.cus-footer {
+  background-color: #F4C430;
+}
+
 :root {
   --brand: #f2ff61;
   --brand-soft: #e7f1ff;
